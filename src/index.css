@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fragment+Mono&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body, #root {
+
+
+background-color: black;
+background-size:100% 100%;
+  opacity: 0.95;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Fragment Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-attachment: fixed;
+ 
+  
+
+
+}
+
